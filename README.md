@@ -1,8 +1,12 @@
-# Template Repo for ML Project
+# __Xente Fraud Detection Challenge__
 
-This template repo will give you a good starting point for your second project. Besides the files used for creating a virtual environment, you will find a simple example of how to build a simple model in a python script. This is maybe the simplest way to do it. We train a simple model in the jupyter notebook, where we select only some features and do minimal cleaning. The output is then stored in simple python scripts.
+Our goal: Accurately classify the fraudulent transactions from Xente's e-commerce platform.
 
-The data used for this is: [coffee quality dataset](https://github.com/jldbc/coffee-quality-database).
+The data used for this is provided from this website: [Xente Fraud Detection dataset](https://zindi.africa/competitions/xente-fraud-detection-challenge/data).
+
+Xente is an e-commerce and financial service app serving 10,000+ customers in Uganda.
+
+This dataset includes a sample of approximately 140,000 transactions that occurred between 15 November 2018 and 15 March 2019.
 
 ---
 ## Requirements and Environment
