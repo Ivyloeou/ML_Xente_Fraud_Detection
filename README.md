@@ -42,20 +42,3 @@ pip install --upgrade pip
 pip install -r requirements.txt
 pip install imbalanced-learn
 ```
-
-## Usage
-
-In order to train the model and store test data in the data folder and the model in models run:
-
-```bash
-#activate env
-source .venv/bin/activate
-
-python example_files/train.py  
-```
-
-In order to test that predict works on a test set you created run:
-
-```bash
-python example_files/predict.py models/linear_regression_model.sav data/X_test.csv data/y_test.csv
-```
