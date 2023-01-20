@@ -1,6 +1,6 @@
-# __Xente Fraud Detection Challenge__
+# __🔎 Xente Fraud Detection Challenge__
 
-Our goal: Accurately classify the fraudulent transactions from Xente's e-commerce platform and save money.
+🎯 Our goal: Accurately classify the fraudulent transactions from Xente's e-commerce platform and save money.
 
 The data used for this is provided from this website: [Xente Fraud Detection dataset](https://zindi.africa/competitions/xente-fraud-detection-challenge/data).
 
@@ -10,7 +10,7 @@ Our Evaluation Metric: F1-score
 
 This challenge is a great exercise for classification problems and this notebook used various classification models, SMOTE sampling technique and Ensemble methods to improve the F1 score results. 
 
-__Contents:__
+__📄 Contents:__
 
 - EDA and feature engineering
 - Baseline model
